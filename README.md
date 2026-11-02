@@ -1,1 +1,1 @@
-# buniai-test
+This repository is used to test the Buniai GitHub connection. Feel free to add your test files here!
